@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Login form snippet** made with Bootstrap 4. It features a stylish design with a fullscreen background image and subtle dark colors. The snippet consists of a tiny bit of HTML and CSS, making it super easy to customize and extend the form to add more input fields. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/login-form-dark)
+**Login form snippet** made with Bootstrap 4. It features a stylish design with a fullscreen background image and subtle dark colors. The snippet consists of a tiny bit of HTML and CSS, making it super easy to customize and extend the form to add more input fields. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Dark Login Form](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/login-form-dark) 
+[![Dark Login Form](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
